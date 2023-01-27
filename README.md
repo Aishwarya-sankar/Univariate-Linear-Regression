@@ -21,10 +21,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 X = np.array(eval(input()))
 Y = np.array(eval(input()))
-README.md
-1/24/23, 9:13 PM premalatha-sureshbabu/Univariate-Linear-Regression: Implementation of Univariate Linear Regression
-https://github.com/premalatha-sureshbabu/Univariate-Linear-Regression 2/3
-Output
 Xmean = np.mean(X)
 Ymean = np.mean(Y)
 num, den = 0, 0
